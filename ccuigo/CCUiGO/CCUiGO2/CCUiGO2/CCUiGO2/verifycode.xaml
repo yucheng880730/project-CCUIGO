@@ -1,0 +1,103 @@
+﻿<Window x:Class="CCUiGO2.VerifyCode"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:CCUiGO2"
+        mc:Ignorable="d"
+		Icon="Icon/igo_white.png"
+        Title="MainWindow" Height="364.33" Width="449.603" WindowState="Normal" WindowStyle="None" Background="#6E7783" 
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style TargetType="TextBox" x:Key="Textbox1">
+            <Setter Property="Padding" Value="7"/>
+            <Setter Property="Foreground" Value="#000"/>
+            <Setter Property="Width" Value="182"/>
+            <Setter Property="Height" Value="33"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type TextBox}">
+                        <Border x:Name="border"
+                                CornerRadius="15"
+                                BorderBrush="#D8E6E7"
+                                BorderThickness="2"
+                                Background="#D8E6E7" Margin="10,0,10,0">
+                            <ScrollViewer x:Name="PART_ContentHost" Focusable="false" HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Hidden"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="true">
+                            </Trigger>
+                            <Trigger Property="IsFocused" Value="true">
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="Button" x:Key="Button1">
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="Foreground" Value="WhiteSmoke"/>
+            <Setter Property="Background" Value="#77AAAD"/>
+            <Setter Property="Width" Value="182"/>
+            <Setter Property="Height" Value="33"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border BorderBrush="{TemplateBinding Control.BorderBrush}" CornerRadius="16" Name="PART_Background">
+                            <Border.Background>
+                                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                                    <GradientStop Color="#77AAAD" Offset="0.0" />
+                                </LinearGradientBrush>
+                            </Border.Background>
+                            <ContentPresenter Content="{TemplateBinding ContentControl.Content}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="6*"/>
+            <ColumnDefinition Width="431*"/>
+            <ColumnDefinition Width="5*"/>
+        </Grid.ColumnDefinitions>
+
+        <Image Grid.Column="1" Margin="184,15,184,287" Source="igo_white_update1.png" Stretch="Fill" RenderTransformOrigin="0.832,0.523"/>
+
+        <Button Name="close" BorderBrush="Transparent" Grid.Column="1" Margin="421,0,0.333,342" Width="22" Height="22" FontSize="17" Grid.ColumnSpan="2" Click="Close_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Icon/cross.png"/>
+            </Button.Background>
+        </Button>
+
+        <Button Name="minus" BorderBrush="Transparent" Grid.Column="1" Margin="397,-2,16,338" Height="Auto" FontSize="15" Click="Minus_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="Icon/minus.png" Opacity="0.3"/>
+            </Button.Background>
+        </Button>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="65,124,65.8,201" Grid.ColumnSpan="2" Grid.Column="1" Width="287">
+            <Label Content="驗證碼:" Foreground="#D8E6E7" FontSize="16"/>
+            <TextBox x:Name="verify_code_text" Margin="-4,0" Style="{StaticResource Textbox1}" VerticalContentAlignment="Top" Text="輸入驗證碼" Foreground="Gray" GotFocus="Verify_code_text_GotFocus" LostFocus="Verify_code_text_LostFocus"/>
+        </StackPanel>
+
+        <Button Content="NEXT" Name="next" VerticalAlignment="Top" Grid.Column="1" Margin="371,326,6,0" Style="{StaticResource Button1}" Width="Auto" Height="28" Click="Next_Click"/>
+        <Button Content="BACK" Name="back" VerticalAlignment="Top" Grid.Column="1" Margin="6,326,371,0" Style="{StaticResource Button1}" Width="Auto" Height="28" Click="Back_Click"/>
+
+        <Label Content="Take Care Of Your Course" Foreground="#D8E6E7" Margin="139,75,139,267" Grid.Column="1"/>
+
+        <Button Name="ReVerifyCodeBTN" Content="重取驗證碼" VerticalAlignment="Top" Width="101" Height="34" Grid.Column="1" Margin="316,126,22,0" Style="{StaticResource Button1}" Click="ReVerifyCode_Click"/>
+
+        <Label Content="若未收到驗證碼信，請點選重取驗整碼的按鈕，" Foreground="#D8E6E7" Margin="86,185,87,153" Grid.Column="1" Opacity="0.6"/>
+        <Label Content="或返回上一步確認信箱輸入正確與否" Foreground="#D8E6E7" Margin="86,202,99,135" Grid.Column="1" Opacity="0.6"/>
+    </Grid>
+</Window>
+	
+
