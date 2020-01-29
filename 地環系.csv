@@ -1,0 +1,22 @@
+﻿,年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數
+0,1,2351002,1,地球與環境科學概論（二）Introduction to Earth and Environmental Sciences ( II ),謝孟龍,3  3/0/0,3,必修,一F 三F,地震館302,85
+1,1,2351004,1,地球與環境科學概論實習（二）Introduction to Earth and Environmental Sciences Laboratory ( II ),葉玉蓮,3  0/3/0,1,必修,"二E,F",數學館106,25
+2,1,2351004,2,地球與環境科學概論實習（二）Introduction to Earth and Environmental Sciences Laboratory ( II ),葉玉蓮,3  0/3/0,1,必修,"五C,D",數學館106,25
+3,2,2352009,1,土壤力學Soil Mechanics(遠距教學/Distant learning),劉台生,3  3/0/0,3,選修,二C 四C,地震館102,55
+4,2,2352011,1,水文學Hydrology,呂學諭,3  3/0/0,3,選修,二B 四B,地震館102,55
+5,2,2352012,1,構造地質學Structural Geology,李元希,3  3/0/0,3,必修,一F 三F,地震館102,55
+6,2,2352014,1,地震導論Earthquakes,溫士忠,3  3/0/0,3,選修,三B 五B,地震館102,55
+7,2,2352016,1,工程數學（二）Engineering Mathematics (II),劉台生,3  3/0/0,3,選修,一E 三E,地震館102,55
+8,2,2352022,1,遙感探測與地理資訊系統Remote Sensing and Geographic,鄭凱謙,3  3/0/0,3,選修,"五E,F",地震館305,32
+9,2,2352026,1,環境工程(一)Environmental Engineering (I),許昺慕,3  3/0/0,3,選修,"二E,F",地震館302,85
+10,2,2352027,1,程式設計Program Design (程式設計相關/Programming related),呂學諭,3  3/0/0,3,選修,一G 三G,地震館304,28
+11,3,2353005,1,大地測量Geodetic Survey,鄭凱謙,3  3/0/0,3,選修,二B 四B,地震館107,60
+12,2,2353006,1,環境化學Environmental Chemistry,范誠偉,3  3/0/0,3,必修,一C 三C,地震館102,55
+13,3,2353011,1,地球物理探勘Geophysical Exploration,石瑞銓,3  3/0/0,3,選修,一F 三F,地震館107,60
+14,3,2353020,1,專題研究（二）Special Topics （II）,李元希,2  2/0/0,2,選修,"五10,11",地震館304,28
+15,3,2353038,1,沉積學Sedimentology,謝孟龍,3  3/0/0,3,選修,二C 四C,地震館107,60
+16,3,2353044,1,數據分析方法Data Analysis (程式設計相關/Programming related),呂學諭,3  3/0/0,3,選修,一E 三E,地震館107,60
+17,3,2353045,1,全球環境變遷Global Change,汪良奇,3  3/0/0,3,選修,"四7,8,9",地震館305,32
+18,4,2354007,1,環境規畫與管理Environmental Planning and Management,汪良奇,3  3/0/0,3,選修,"五7,8,9",地震館107,60
+19,4,2354021,1,石油地質Petroleum Geology,吳榮章,3  3/0/0,3,選修,"四4,5,6",地震館302,85
+20,4,2354022,1,空氣污染防制Air pollution Control,陳建易,3  3/0/0,3,選修,"四E,F",地震館304,28

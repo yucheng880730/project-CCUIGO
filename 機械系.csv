@@ -1,0 +1,31 @@
+﻿,年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數
+0,1,4201051,1,應用力學（二）Applied Mechanics (II),劉德騏,3  3/0/0,3,必修,二B 四B,工學院B館117,120
+1,1,4201052,1,工場實習（二）Machine Shop Practice (II),柳昆成,3  1/2/0,1,必修,"四12,13,14",工學院C館實習工廠102,50
+2,1,4201052,2,工場實習（二）Machine Shop Practice (II),柳昆成,3  1/2/0,1,必修,"二12,13,14",工學院C館實習工廠102,50
+3,1,4201151,1,工程圖學（二）Engineering Graphics (II),蔡忠佑,3  1/2/0,1,必修,"一7,8,9",創新大樓201,40
+4,1,4201151,2,工程圖學（二）Engineering Graphics (II),蔡忠佑,3  1/2/0,1,必修,"二7,8,9",創新大樓201,40
+5,1,4201151,3,工程圖學（二）Engineering Graphics (II),蔡忠佑,3  1/2/0,1,必修,"二12,13,14",創新大樓201,40
+6,2,4202051,1,工程數學（二）Engineering Mathematics (II),陳世樂,3  3/0/0,3,必修,二E 四E,工學院B館117,120
+7,2,4202053,1,視窗程式設計Windows Programming (程式設計相關/Programming related),彭輝郎,3  3/0/0,3,選修,"二12,13,14",工學院B館215右,32
+8,2,4202251,1,機械製造Manufacturing Processes,林榮信,3  3/0/0,3,必修,一C 三C,工學院B館117,120
+9,2,4202352,1,材料力學（二）Strength of Materials (II),林派臣,3  3/0/0,3,選修,二F 四F,工學院B館117,120
+10,2,4202553,1,熱力學（二）Thermodynamics (II),陳永松,3  3/0/0,3,選修,一2 三2 五2,工學院B館117,120
+11,2,4202751,1,電子電路學（一）Circuits and Electronics(I),鄭榮偉,3  3/0/0,3,必修,"三7,8,9",工學院B館117,120
+12,3,4203062,1,熱工與流力實驗Experiments for Thermo-Fluid,林昆模,3  1/2/0,1,必修,"二10,11,12",工學院C館實習工廠301,46
+13,3,4203062,2,熱工與流力實驗Experiments for Thermo-Fluid,林昆模,3  1/2/0,1,必修,"四4,5,6",工學院C館實習工廠301,46
+14,3,4203065,1,專題研究A(二)Special Topics on Mechanical Engineering A(II),劉德騏,2  2/0/0,2,選修,"五13,14",工學院B館214左,60
+15,3,4203066,1,專題研究B（二）Special Topics on Mechanical Engineering B(II),姚宏宗,2  2/0/0,2,選修,"五13,14",工學院B館213,65
+16,3,4203067,1,專題研究C（二）Special Topics on Mechanical Engineering C(II),洪博雄,2  2/0/0,2,選修,"五13,14",工學院B館215右,32
+17,3,4203068,1,專題研究D（二）Special Topics on Mechanical Engineering D(II),謝文馨,2  2/0/0,2,選修,"五13,14",工學院B館214右,50
+18,3,4203151,1,機器動力學Dynamics of Machinery (程式設計相關/Programming related),黃以文,3  3/0/0,3,選修,"二7,8,9",工學院B館213,65
+19,3,4203351,1,機械振動學Mechanical Vibration,鄭志鈞,3  3/0/0,3,選修,一F 三F,工學院B館213,65
+20,3,4203551,1,熱傳學Heat Transfer,陳永松,3  3/0/0,3,選修,一E 三E,工學院B館213,65
+21,2,4203602,1,流體力學（一）Fluid Mechanics (I),謝文馨,3  3/0/0,3,必修,一G 三G,工學院B館214左,60
+22,2,4203602,2,流體力學（一）Fluid Mechanics (I),林昆模,3  3/0/0,3,必修,一G 三G,工學院B館213,65
+23,3,4203752,1,自動控制（二）Automatic Control (II),馮國華,3  3/0/0,3,選修,一C 三C,工學院B館214左,60
+24,3,4203755,1,機電專題實作(一)Mechatronics Design Practice (I),洪博雄,3  3/0/0,3,必修,"四10,11,12",創新大樓201,40
+25,3,4203755,2,機電專題實作(一)Mechatronics Design Practice (I),馮國華,3  3/0/0,3,必修,"五4,5,6",創新大樓201,40
+26,3,4203952,1,工程光學Engineering Optics,張國恩,3  3/0/0,3,選修,二B 四B,工學院B館214右,50
+27,4,4204159,1,創意工程設計Innovative Engineering Design,李興生,3  3/0/0,3,選修,"二7,8,9",工學院B館214左,60
+28,4,4204355,1,機械振聲實驗與分析方法Experimental and Data Analysis Techniques in Sound and Vibration,鄭志鈞,3  3/0/0,3,選修,"四7,8,9",工學院B館213,65
+29,4,4204356,1,機密機械自動化設計Precision machinery and automation design,蕭庭郎 王春仁,3  3/0/0,3,選修,"四13,14,15",工學院B館215右,32
