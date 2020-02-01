@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jan 16 20:28:36 2020
@@ -39,8 +38,9 @@ with open('class_data','w',newline = '') as csvFile:
 def get_class_data(url,name):
     df = pd.read_html(url)    #將dataframe儲存成list
     df =df[0]                 #取list中第一個當dataframe操作
-    df.drop(["備註","課程大綱"] , axis = 1 , inplace = True)  
-    df.to_csv(name+'.csv',encoding='utf_8_sig')
+    df.drop(["備註","課程大綱"] , axis = 1 , inplace = True)
+    df.insert(0,"Department",name)
+    df.to_csv(name+'.csv',encoding='utf_8_sig',index = False)
     print(df)
     #print(type(href))
     #url 型態是str
@@ -66,10 +66,10 @@ name_list = name_list[1:91]
 for i in name_list:
     print(i)
 
-'''
+
 for i in range(len(elem_list)):
     get_class_data(elem_list[i],name_list[i])
-'''
+
     
     
     
@@ -153,7 +153,7 @@ for i in df.columns :
 #df.to_csv('class_data.csv',encoding='big5' )
 
 #print(df)    
-=======
+
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jan 16 20:28:36 2020
@@ -188,7 +188,7 @@ with open('class_data','w',newline = '') as csvFile:
 
 
 
-
+'''
 #方法二
 def get_class_data(url):
     df = pd.read_html(url) #將dataframe儲存成list
@@ -203,7 +203,7 @@ url = 'https://kiki.ccu.edu.tw/~ccmisp06/Course/1014.html' #中文學院學士�
 #url2 = 'https://kiki.ccu.edu.tw/~ccmisp06/Course/1104.html'
 get_class_data(url)
 
-
+'''
 
 '''
 df = pd.read_html("https://kiki.ccu.edu.tw/~ccmisp06/Course/1014.html")
@@ -231,4 +231,4 @@ for i in df.columns :
 #df.to_csv('class_data.csv',encoding='big5' )
 
 #print(df)    
->>>>>>> e068bf1b9947b6ccd7bba7778b9b5bc89ac39542
+

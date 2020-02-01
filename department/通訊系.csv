@@ -1,0 +1,32 @@
+﻿Department,年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數
+通訊系,1,4301001,1,線性代數Linear Algebra,李昌明,3  3/0/0,3,必修,二G 四G,創新大樓102,80
+通訊系,1,4301003,1,程式設計Introduction to programming (全英語授課/English-taught) (程式設計相關/Programming related),許宏銘,3  3/0/0,3,必修,一G 三G,工學院A館127,44
+通訊系,1,4301003,2,程式設計Introduction to programming (程式設計相關/Programming related),潘仁義,3  3/0/0,3,必修,一G 三G,創新大樓102,45
+通訊系,1,4301006,1,程式設計實習Programming Lab (全英語授課/English-taught) (程式設計相關/Programming related),許宏銘,3  0/3/0,1,必修,"一I,J",創新大樓504,20
+通訊系,1,4301006,2,程式設計實習Programming Lab (程式設計相關/Programming related),潘仁義,3  0/3/0,1,必修,"二I,J",創新大樓504,20
+通訊系,1,4301008,1,基礎電路實作專題Fundamental Circuit Projects,陳昱仁,3  0/3/0,1,選修,"四I,J",工學院A館034,6
+通訊系,2,4302010,1,訊號與系統Signals and Systems,陳喬恩,3  3/0/0,3,必修,一F 三F,創新大樓102,45
+通訊系,2,4302010,2,訊號與系統Signals and Systems,江瑞秋,3  3/0/0,3,必修,一F 三F,工學院A館227,45
+通訊系,2,4302011,1,電路學（二）Electric Circuits ( II ),張淵智,3  3/0/0,3,選修,二E 四E,工學院A館227,40
+通訊系,2,4302012,1,電子學（二）Electronics ( II ),吳建華,3  3/0/0,3,必修,一C 三C,創新大樓102,25
+通訊系,2,4302012,2,電子學（二）Electronics ( II ),蔡宗亨,3  3/0/0,3,必修,一C 三C,工學院A館227,25
+通訊系,2,4302013,1,電工實驗（二）Electronic Engineering Laboratory ( II ),吳建華 蔡宗亨,3  0/3/0,1,必修,"四G,H",創新大樓504,50
+通訊系,2,4302015,1,機率Probability,施淵耀,3  3/0/0,3,必修,二F 四F,創新大樓102,80
+通訊系,2,4302016,1,計算機組織Computer Organization,葉經緯,3  3/0/0,3,選修,一B 三B,工學院A館127,40
+通訊系,2,4302016,2,計算機組織Computer Organization,余英豪,3  3/0/0,3,選修,二B 四B,工學院A館227,40
+通訊系,2,4302017,1,電磁學（一）Electromagentics ( I ),林士程,3  3/0/0,3,必修,二C 四C,工學院A館127,30
+通訊系,2,4302017,2,電磁學（一）Electromagentics ( I ),湯敬文,3  3/0/0,3,必修,二C 四C,創新大樓101,25
+通訊系,2,4302020,1,通訊工程導論Introduction to Communications Engineering,陳自強,2  0/0/2,1,必修,"五8,9",共同教室大樓305階梯教室,60
+通訊系,3,4303001,1,作業系統導論Introduction to Operating System,李皇辰,3  3/0/0,3,選修,"五4,5,6",創新大樓102,60
+通訊系,3,4303010,1,電磁波Electromagnetic Waves,張嘉展,3  3/0/0,3,選修,一C 三C,工學院A館225,30
+通訊系,3,4303012,1,數位通訊導論Introduction to Digital Communications,邱茂清,3  3/0/0,3,選修,一E 三E,創新大樓101,35
+通訊系,3,4303015,1,通訊系統專題（一）Special Topics on Communication Systems ( I ),劉宗憲 劉維正 李昌明 邱茂清 陳喬恩,2  2/0/0,2,選修,"一13,14",創新大樓439,8
+通訊系,3,4303016,1,電磁積體電路專題（一）Special Topics on Electromagnetic Integrated Circuits ( I ),張盛富 湯敬文 吳建華 張嘉展 林士程,2  2/0/0,2,選修,"四13,14",工學院A館126,10
+通訊系,3,4303027,1,計算機結構Computer Architecture,朱元三,3  3/0/0,3,選修,二E 四E,創新大樓103,30
+通訊系,3,4303028,1,通訊系統實驗Communication Systems Laboratory,邱茂清,3  0/3/0,1,選修,"三I,J",創新大樓501,13
+通訊系,3,4303029,1,電腦網路實驗Computer Network Laboratory (程式設計相關/Programming related),李詩偉,3  0/3/0,1,選修,"一G,H",創新大樓502,15
+通訊系,3,4303030,1,電磁工程實驗Electromagnetic Engineering Laboratory,張盛富,3  0/3/0,1,選修,"四E,F",創新大樓503,10
+通訊系,3,4303031,1,網路技術與應用專題（一）Special Topics on Network Technology and Applications ( I ),侯廷昭 施淵耀 李皇辰 李詩偉 潘仁義 鄭伯炤 吳承崧,2  2/0/0,2,選修,"三13,14",創新大樓439,8
+通訊系,3,4303038,1,數位訊號處理導論Introduction to Digital Signal Processing,余松年,3  3/0/0,3,選修,二C 四C,工學院A館227,20
+通訊系,3,4303040,1,電力系統Power System,張文恭,3  3/0/0,3,選修,"三C,D",工學院A館125,15
+通訊系,4,4304004,1,工程倫理Engineering Ethics,朱元三,2  2/0/0,2,選修,"四4,5",創新大樓102,40

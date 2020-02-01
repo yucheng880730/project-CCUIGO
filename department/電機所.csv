@@ -1,0 +1,35 @@
+﻿Department,年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制
+電機所,1,4155103,1,語音處理Speech Processing (全英語授課/English-taught),陳自強,3  3/0/0,3,選修,"二F,G",工學院A館225,0,碩博合開
+電機所,1,4155108,1,高等電磁理論Advanced Electromagnetic Theory,張盛富,3  3/0/0,3,選修,"二F,G",工學院A館226,0,碩博合開
+電機所,1,4155125,1,微波固態元件與精密量測Microwave solid-state devices and measurements,林士程,3  3/0/0,3,選修,"三3,4,5",工學院A館226,0,碩博合開
+電機所,1,4155295,1,機器人控制與感測系統概論Fundamental of Robotic Control and Sensing Systems,余英豪,3  3/0/0,3,選修,"四E,F",工學院A館126,0,碩博合開
+電機所,1,4155297,1,軟體架構Software Architecture (全英語授課/English-taught) (程式設計相關/Programming related),劉立頌,3  3/0/0,3,選修,"三3,4,5",工學院A館126,0,碩博合開
+電機所,1,4155310,1,圖形識別Pattern Recognition (全英語授課/English-taught),賴文能,3  3/0/0,3,選修,"四3,4,5",工學院A館225,0,碩博合開
+電機所,1,4155314,1,DSP 處理器設計DSP Processor Design,陳自強,3  3/0/0,3,選修,"三G,H",工學院A館226,0,碩博合開
+電機所,1,4155318,1,奈米積體電路設計 Nanometer integrated circuit design,王進賢,3  3/0/0,3,選修,"三B,C",工學院A館023,0,碩博合開
+電機所,1,4155517,1,微波通訊平面與多層電路設計Microwave Communication Design for Planar and Multilayered Circuits (全英語授課/English-taught),湯敬文,3  3/0/0,3,選修,"一3,4,5",創新大樓101,0,碩博合開
+電機所,1,4155537,1,雷達系統原理Principle of Radar System,張嘉展,3  3/0/0,3,選修,"二3,4,5",工學院A館225,0,碩博合開
+電機所,1,4155538,1,嵌入式開放源碼系統Open Source Environments for Embedded Systems (全英語授課/English-taught),許宏銘,3  3/0/0,3,選修,一F 三F,工學院A館126,0,碩博合開
+電機所,1,4155549,1,現代控制系統Modern Control Systems (全英語授課/English-taught),余國瑞,3  3/0/0,3,選修,"二G,H",工學院A館125,0,碩博合開
+電機所,1,4155561,1,高速電路訊號完整性Signal Integrity of High-Speed Circuit,吳建華,3  3/0/0,3,選修,"三E,F",工學院A館023,0,碩博合開
+電機所,1,4156000,1,IC量測實務Practice of IC measurement,王進賢,1  1/0/0,1,選修,二6,工學院A館126,0,碩博合開
+電機所,1,4156002,1,專題演講（二）Seminar (II) (全英語授課/English-taught),鄭伯炤 余國瑞 施淵耀,2  0/0/2,1,必修,"五8,9",創新大樓110大型會議室(銘珠講堂),0,碩士班課程
+電機所,1,4156027,1,智慧型系統專論Seminar on Intelligent systems,林惠勇,3  3/0/0,3,選修,"五B,C",工學院A館126,0,碩博合開
+電機所,1,4156028,1,數位訊號處理專論Seminar on Digital Signal Processing (全英語授課/English-taught),賴文能,3  3/0/0,3,選修,"四I,J",工學院A館226,0,碩博合開
+電機所,1,4156029,1,SOC 專論Seminar on SOC,王進賢,3  3/0/0,3,選修,"二B,C",工學院A館126,0,碩博合開
+電機所,1,4156039,1,電源管理晶片專論Seminar on Power Management IC,黃崇勛,3  3/0/0,3,選修,"二I,J",工學院A館226,0,碩博合開
+電機所,1,4156133,1,醫療儀器學Biomedical Instrumentation,余松年,3  3/0/0,3,選修,"三3,4,5",工學院A館027,0,碩博合開
+電機所,1,4156201,1,多視角視訊編解碼技術Multi-view Video Coding (全英語授課/English-taught),江瑞秋,3  3/0/0,3,選修,"二3,4,5",工學院A館226,0,碩博合開
+電機所,1,4156302,1,工業機器人及應用Industrial Robot and Application,陳昱仁,3  3/0/0,3,選修,"三G,H",工學院A館125,0,碩博合開
+電機所,1,4156321,1,SOC 設計方法論SOC Design Methodology,葉經緯,3  3/0/0,3,選修,"五G,H",工學院A館225,0,碩博合開
+電機所,1,4156324,1,智慧型代理人系統Intelligent Agent Systems (全英語授課/English-taught),劉立頌,3  3/0/0,3,選修,"四3,4,5",工學院A館126,0,碩博合開
+電機所,1,4156325,1,混合訊號積體電路Mixed-signal Integrated Circuits,蔡宗亨,3  3/0/0,3,選修,"一E,F",工學院A館125,0,碩博合開
+電機所,1,4156338,1,AI 加速器平台與設計AI acceleration platforms and designs,陳自強,3  3/0/0,3,選修,"一8,9,10",工學院A館226,0,碩博合開
+電機所,1,4156498,1,電力品質分析與模擬Power Quality Analysis and Simulation (全英語授課/English-taught),張文恭,3  3/0/0,3,選修,"三E,F",工學院A館125,0,碩博合開
+電機所,1,4156500,1,電力系統暫態分析Electrical Transients in Power Systems (全英語授課/English-taught),吳元康,3  3/0/0,3,選修,"五3,4,5",工學院A館225,0,碩博合開
+電機所,1,4156502,1,配電工程Electrical Distribution Engineering,王宏魯,3  3/0/0,3,選修,"一I,J",工學院A館125,0,碩博合開
+電機所,1,4156506,1,電機機械專論Advanced Topics on Electric Machinery (全英語授課/English-taught),吳元康,3  3/0/0,3,選修,"五G,H",工學院A館226,0,碩博合開
+電機所,1,4157000,1,科技英文寫作English technical writing (全英語授課/English-taught),饒傑瑞,3  3/0/0,3,選修,"四8,9,10",工學院A館337,10,碩博合開
+電機所,1,4157001,1,進階科技英文寫作Advanced English Technical Writing (全英語授課/English-taught),饒傑瑞,3  3/0/0,3,選修,"二8,9,10",工學院A館337,10,碩博合開
+電機所,1,4157016,1,高等電機理論Advanced Electric Machine Theory,張淵智,3  3/0/0,3,選修,二C 四C,工學院A館125,0,碩博合開
+電機所,1,4157022,1,電動車輛電力系統應用Applications of Electric Vehicles in Power Systems,劉祐任,3  3/0/0,3,選修,"二E,F",工學院A館126,0,碩博合開

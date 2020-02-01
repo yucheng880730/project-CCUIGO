@@ -1,0 +1,18 @@
+﻿Department,年級,編號,班別,科目名稱,任課教授,上課時數正課/實驗實習/書報討論,學分,選必,上課時間,上課地點,限修人數,開課學制
+分子生物所,1,2455004,1,分子生物學書報討論（二）Seminar on Molecular Biology (II),戴建國,2  0/0/2,1,必修,"五4,5",生醫系228,0,碩士班課程
+分子生物所,1,2455015,1,分子生物學書報討論（四）Seminar on Molecular Biology (IV),吳淑芬,2  0/0/2,1,必修,"五2,3",生醫系236,0,碩士班課程
+分子生物所,1,2455019,1,高等細胞生物學Advanced Cell Biology,李沁,3  3/0/0,3,必修,"四3,4,5",生醫系236,0,碩士班課程
+分子生物所,1,2455107,1,分子病毒學特論Molecular Virology,張德卿,3  3/0/0,3,選修,"三8,9,10",生醫系460,0,碩博合開
+分子生物所,1,2455113,1,基因重組病毒之應用Recombinant Technology on Virology,張德卿,2  0/0/2,1,選修,"四11,12",生醫系460,0,碩博合開
+分子生物所,1,2455511,1,分生技術實驗設計Experimental Design in Molecular Biology,李沁,2  2/0/0,2,選修,"四8,9",生醫系236,0,碩博合開
+分子生物所,1,2455681,1,基因編輯之原理與應用The principle and applications of genome editing,余俊頴,2  2/0/0,2,選修,"二10,11",生醫系534,0,碩博合開
+分子生物所,1,2455710,1,生物化學專題研究（二）Special topics on Biochemistry (II),李政怡 曾銘仁,4  0/0/4,2,選修,"二13,14 四13,14",生醫系534,0,碩博合開
+分子生物所,1,2455711,1,分子運輸學專題研究（二）Special topics on Molecular Transportation,李沁 黃憲斌,4  0/0/4,2,選修,"二13,14 四13,14",生醫系230,0,碩博合開
+分子生物所,1,2455712,1,細胞與發育生物學專題研究（二）Special topics on Cell and Developmental Biology (II),江明格 陳浩仁,4  0/0/4,2,選修,"一2,3 三2,3",生醫系534,0,碩博合開
+分子生物所,1,2455724,1,遺傳學專題研究（二）Special topics on Genetics(II),呂昱瑋 黃敏郎,4  0/0/4,2,選修,"一13,14 三13,14",生醫系236,0,碩博合開
+分子生物所,1,2458002,1,分子生物學書報討論（六）Seminar on Molecular Biology (VI),呂昱瑋,2  0/0/2,1,必修,"五2,3",生醫系230,0,博士班課程
+分子生物所,1,2458002,2,分子生物學書報討論（六）Seminar on Molecular Biology (VI) (全英語授課/English-taught),呂昱瑋,2  0/0/2,1,必修,"四8,9",生醫系230,0,博士班課程
+分子生物所,1,2458004,1,分子生物學書報討論（八）Seminar on Molecular Biology (VIII),呂昱瑋,2  0/0/2,1,必修,"五4,5",生醫系230,0,博士班課程
+分子生物所,1,2458008,1,高等細胞分子生物學（一）Advanced Cell and Molecular Biology(I) (全英語授課/English-taught),江明格 陳浩仁,3  3/0/0,3,必修,"三4,5,6",生醫系236,0,博士班課程
+分子生物所,1,2458009,1,高等細胞分子生物學（二）Advanced Cellular Molecular Biology(II),蕭淑惠 陳永恩,3  3/0/0,3,必修,"四4,5,6",生醫系228,0,博士班課程
+分子生物所,1,2458106,1,基因體技術及其生醫應用Genomics techniques and its biomedical application,呂昱瑋,3  3/0/0,3,選修,"三G,H",生醫系546,8,博士班課程
